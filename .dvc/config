@@ -1,0 +1,12 @@
+[core]
+    remote = dagshub
+['remote "origin"']
+    url = https://dagshub.com/ndiguesene/examen-dvc.dvc
+    auth = basic
+    user = ndiguesene
+    password = Konami.19940615..
+['remote "dagshub"']
+    url = https://dagshub.com/ndiguesene/examen-dvc.dvc
+    user = ndiguesene
+    auth = basic
+    password = 76c065206783af96376b80a6e8f5dc9c8406fbe6
